@@ -4,7 +4,7 @@
 Pacifist, autodidact, sysadmin with developer complex, what else? A neovim lover.
 
 * 🧠  I'm currently learning AWS ☁️ Cloud Computing
-* 🌍  Based in Lima. 🚀 Currently working remotely on [Entelgy](http://www.entelgy.com) as a sysadmin
+* 🌍  Based in Lima. 🚀 Currently working on personal projects
 * 📬  You can contact me at [anmac\_tec@outlook.com](mailto:anmac_tec@outlook.com)
 
 ### Skills
